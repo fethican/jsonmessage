@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Nvveen/Gotty"
+	"github.com/ijc/Gotty"
 	"github.com/docker/docker/pkg/term"
 	"github.com/docker/go-units"
 )
